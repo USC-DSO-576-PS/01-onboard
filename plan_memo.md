@@ -8,7 +8,8 @@
 <!-- This memo is the one thing you hand in for Module 1. Fill in every section,
 then upload this file to Brightspace before Quiz 1. Nothing is submitted through
 GitHub. The wording has to be yours: write it yourself, and use figures you
-produced from members.csv rather than any you were handed. -->
+produced from members.csv rather than any you were handed. Leave every comment
+prompt in place and write your response on the blank line directly beneath it. -->
 
 ---
 
